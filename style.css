@@ -1,0 +1,35 @@
+
+html{
+    font-family: sf mono;
+    font-size: 21px;
+    color: whitesmoke;
+}
+
+p{
+    color: whitesmoke;
+}
+h1 {
+    color:aqua;
+    margin-top: 2%;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+  }
+  
+
+body{
+    background-color: #222121;
+    color: aqua;
+    font-size: 22px;
+
+}
+
+
+
+sub{
+    color: whitesmoke;
+    
+}
+
