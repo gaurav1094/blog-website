@@ -26,7 +26,20 @@ body{
 
 }
 
+/* Change the default color */
+.social-icons a {
+    color: whitesmoke; /* Default icon color, e.g., black */
+    font-size: 40px;
+    margin-left: 3ex;
+    
+  } 
+  
+  /* Change color on hover */
+  .social-icons a:hover {
+    color: aqua; /* Change color on hover, e.g., LinkedIn blue */
+  }
 
+  
 
 sub{
     color: whitesmoke;
