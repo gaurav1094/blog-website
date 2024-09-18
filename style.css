@@ -39,10 +39,17 @@ body{
     color: aqua; /* Change color on hover, e.g., LinkedIn blue */
   }
 
+  .navbar a{
+    font-size: larger;
+    margin-left: 15em;
+    color: whitesmoke;
+  }
   
+  .navbar a:hover{
+    color: aqua;
+  }
 
 sub{
-    color: whitesmoke;
-    
+    color: whitesmoke;  
 }
 
