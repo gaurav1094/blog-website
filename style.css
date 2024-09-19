@@ -43,9 +43,11 @@ body{
     font-size: larger;
     margin-left: 15em;
     color: whitesmoke;
+    
   }
   
   .navbar a:hover{
+    text-decoration: underline;
     color: aqua;
   }
 
