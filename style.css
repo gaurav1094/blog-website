@@ -1,9 +1,17 @@
 
 html{
-    font-family: sf mono;
-    font-size: 21px;
+    
     color: whitesmoke;
     background-color: #1c1919;
+
+}
+
+@font-face {
+  font-family: 'sf mono';
+  src: url('/fonts/SFMono-Bold.woff') format('woff'),
+      url('/fonts/SFMono-Bold.woff2') format('woff2'),
+      url('/fonts/SFMono-Bold.otf') format('opentype');
+  font-size: 21px;
 }
 
 p{
@@ -18,9 +26,13 @@ h1 {
 a {
     text-decoration: none;
   }
+
   
 
+
+
 body{
+    font-family: 'sf mono';
     background-color: #222121;
     color: aqua;
     font-size: 22px;
